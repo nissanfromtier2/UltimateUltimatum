@@ -1,0 +1,628 @@
+	song = {
+	name = "adayatthecourt.mp3"
+	chance = {
+		modifier = {
+			factor = 10
+			
+			}
+		}	
+	}
+
+song = {
+    name = "ARG1.mp3"
+    chance = {
+        modifier = {
+            factor = 100
+			tag=ARG
+        }
+    }
+}
+
+song = {
+    name = "ARG2.mp3"
+    chance = {
+        modifier = {
+            factor = 100
+			tag=ARG
+        }
+    }
+}
+song = {
+    name = "ARG3.mp3"
+    chance = {
+        modifier = {
+            factor = 100
+			tag=ARG
+        }
+	}	
+}
+song = {
+	name = "battlehymnoftherepublic.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+	song = {
+	name = "buckinghampalace.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 10
+			
+			}
+		}	
+	}			
+	song = {
+	name = "Cadiz.mp3"
+	chance = {
+		modifier = {
+			factor = 10
+			
+			}
+		}	
+	}
+	song = {
+	name = "Dogma.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 10
+			
+			}
+		}	
+	}
+	song = {
+	name = "The Great Patriotic War.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 10
+			
+			}
+		}	
+	}
+	song = {
+	name = "Days of Thunder.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 10
+			
+			}
+		}	
+	}
+	song = {
+	name = "Luftwaffe Strikers Again.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "Operation Barbarossa.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "war1.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			war=yes
+			}
+		}	
+	}
+	song = {
+	name = "The Battle Is Going Again.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "war2.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			war=yes
+			}
+		}	
+	}
+	song = {
+	name = "war3.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			war=yes
+			}
+		}	
+	}
+	song = {
+	name = "war4.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			war=yes
+			}
+		}	
+	}
+	song = {
+	name = "war5.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			war=yes
+			}
+		}	
+	}
+	song = {
+	name = "Discover New Land.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+	song = {
+	name = "Workers March.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "Classic Battle.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+	song = {
+	name = "peace.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "Conquistador - Main Theme.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+	song = {
+	name = "soundtrack7.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "ohimagoodolrebel.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "marchingthroughgeorgia.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "jonnycomesmarchinghome.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+
+		song = {
+	name = "winter.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "wehaveindependence.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "theroyalmarch.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "russia1917.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "queensscherzo.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "poverty.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+			song = {
+	name = "newworldanthem.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+			song = {
+	name = "lamentforthequeen_bonustrack.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+			song = {
+	name = "johanswaltz.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+			song = {
+	name = "inventions.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+			song = {
+	name = "handelthis.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+			song = {
+	name = "forgodandqueen.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+			song = {
+	name = "europeanno1850.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+			song = {
+	name = "deathofprincealbert.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+	song = {
+	name = "countryside.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+	song = {
+	name = "Exodus.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+	song = {
+	name = "motherrussia.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "heavywater.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			
+			}
+		}	
+	}
+		song = {
+	name = "war6.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			war=yes
+			}
+		}	
+	}
+	song = {
+	name = "war7.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			war=yes
+			}
+		}	
+	}
+	song = {
+	name = "peace1.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			}
+		}	
+	}
+		song = {
+	name = "cominterntheme.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			}
+		}	
+	}
+	song = {
+	name = "axistheme.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1000
+			tag=GER
+			government = fascist_dictatorship
+			}
+		}	
+	}
+	song = {
+	name = "dday.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			}
+		}	
+	}
+	song = {
+	name = "airforce.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			}
+		}	
+	}
+			song = {
+	name = "krakow.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			}
+		}	
+	}
+	song = {
+	name = "peace2.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 10
+			war=no
+			}
+		}	
+		
+	}
+song = {
+	name = "war8.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 10
+			war=yes
+			}
+		}	
+	}
+song = {
+	name = "peace3.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 10
+			war=no
+			}
+		}	
+	}	
+song = {
+	name = "sovietvictory.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			}
+		}	
+	}
+song = {
+	name = "sovietmight.mp3"
+	
+	chance = {
+		modifier = {
+			
+			factor = 10
+			}
+		}	
+	}
+song = {
+	name = "war9.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 10
+			war=yes
+			}
+		}	
+	}
